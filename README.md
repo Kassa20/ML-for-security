@@ -11,6 +11,9 @@
 
 #
 
+### PL used: python, tensorflow/keras, Numpy/Pandas, various ML techniques
+
+
 # Sources
 
 DIDarknet: A contemporary approach to detect and characterize the darknet traffic using Deep Image Learning | Proceedings of the 2020 10th International Conference on Communication and Network Security. (n.d.). https://dl.acm.org/doi/abs/10.1145/3442520.3442521 
