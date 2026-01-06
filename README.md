@@ -1,5 +1,6 @@
 # The purpose of this project is to Classify a network as suspicious or not based on certain characteristics
 
+### presentaion: https://youtu.be/JAcKcL54d-s
 
 [Updated ML model for intrusion detection.pptx](https://github.com/user-attachments/files/24458104/Updated.ML.model.for.intrusion.detection.pptx)
 
